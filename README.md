@@ -1,3 +1,3 @@
 # Fruit Catcher
 
-## How to Play
+### How to Play
