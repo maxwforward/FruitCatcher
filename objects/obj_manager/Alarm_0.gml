@@ -4,7 +4,6 @@
 /// @DnDArgument : "xpos" "random(640)"
 /// @DnDArgument : "ypos" "random(480)"
 /// @DnDArgument : "objectid" "obj_bomb"
-/// @DnDSaveInfo : "objectid" "985c2a3f-6901-4733-8cd7-e5608509e489"
 instance_create_layer(random(640), random(480), "Instances", obj_bomb);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm

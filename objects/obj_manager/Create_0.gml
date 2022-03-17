@@ -14,5 +14,4 @@ score = 0;
 /// @DnDHash : 5860A238
 /// @DnDArgument : "soundid" "sound_music"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "sound_music"
 audio_play_sound(sound_music, 0, 1);

@@ -2,7 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 11358ABD
 /// @DnDArgument : "soundid" "sound_click"
-/// @DnDSaveInfo : "soundid" "sound_click"
 audio_play_sound(sound_click, 0, 0);
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
